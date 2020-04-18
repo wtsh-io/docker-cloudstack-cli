@@ -19,4 +19,3 @@ EOF
 }
 
 /usr/local/bundle/bin/cloudstack-cli "$@"
-# sleep 60
